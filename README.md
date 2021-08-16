@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bastiann24
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in Swift, Java, JavaScript and Python.
+- 🌱 I’m currently studying Software Development and developing more skills.
+- 💞️ I’m looking to collaborate on any project that I can be helpful on.
 - 📫 How to reach me: xxbastiannxx@gmail.com
 
 <!---
