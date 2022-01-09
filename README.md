@@ -3,6 +3,9 @@
 - 🌱 I’m currently studying Software Development and developing more skills.
 - 💞️ I’m looking to collaborate on any project that I can be helpful on.
 - 📫 How to reach me: xxbastiannxx@gmail.com
+- 🌐 My website: https://xxbastiannxx.wixsite.com/bastianugaldeveas
+- 🌐 My LinkedIn: https://www.linkedin.com/in/bastian-ugalde-veas-09899a229/
+- 🌐 My YouTube: https://www.youtube.com/channel/UCzigo9CZpTtDlz2COOchX-Q
 
 <!---
 Bastiann24/Bastiann24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
