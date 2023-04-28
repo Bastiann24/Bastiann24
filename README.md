@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bastiann24
 - 👀 I’m interested in Swift, Java, JavaScript and Python.
-- 🌱 I’m currently studying Software Development and developing more skills.
+- 🌱 I’m currently studying Software Engineering and developing more skills.
 - 💞️ I’m looking to collaborate on any project that I can be helpful on.
 - 📫 How to reach me: xxbastiannxx@gmail.com
 - 🌐 My Website/Portfolio: https://xxbastiannxx.wixsite.com/bastianugaldeveas
